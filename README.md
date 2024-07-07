@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theyashcoding
+- 👋 Hi, basic python programs 
   it is all about basics python programs 
 <!---
 theyashcoding/theyashcoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
